@@ -1,0 +1,6 @@
+{
+  "name": "Rimba Matematika: Petualangan Satwa Pintar",
+  "description": "Game edukasi matematika dan logika petualangan hutan untuk anak sekolah dasar dengan teka-teki interaktif, lencana prestasi, dan papan peringkat kompetisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
