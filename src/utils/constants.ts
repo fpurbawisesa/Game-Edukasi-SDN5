@@ -9,7 +9,7 @@ export const BADGE_TROPHY_IMG = '/src/assets/images/forest_badge_trophy_17931570
 export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
   kancil: {
     id: 'kancil',
-    name: 'Kiko si Kancil',
+    name: 'Saiful si Kancil',
     title: 'Si Cerdik Lincah',
     description: 'Terkenal sangat pandai memecahkan teka-teki logika dan gerak cepat melompati rintangan.',
     speed: 3.8,
@@ -19,7 +19,7 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
   },
   fox: {
     id: 'fox',
-    name: 'Milo si Rubah',
+    name: 'Pras si Rubah',
     title: 'Petualang Cermat',
     description: 'Sahabat penjelajah yang teliti melihat pola angka tersembunyi di bebatuan kuil purba.',
     speed: 4.0,
@@ -29,7 +29,7 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
   },
   bear: {
     id: 'bear',
-    name: 'Romi si Beruang',
+    name: 'Qoid si Beruang',
     title: 'Penjaga Kuat',
     description: 'Sangat handal dalam teka-teki timbangan berat dan menghitung buah madu rimba.',
     speed: 3.5,
@@ -39,7 +39,7 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
   },
   owl: {
     id: 'owl',
-    name: 'Pipit si Burung Hantu',
+    name: 'Naldi si Burung Hantu',
     title: 'Mahaguru Hutan',
     description: 'Membimbing para petualang cilik dengan rumus rahasia dan petunjuk cerdas.',
     speed: 3.7,
